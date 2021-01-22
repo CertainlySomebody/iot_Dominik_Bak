@@ -1,0 +1,14 @@
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\bin\Debug\netstandard2.0\iot_lab1.deps.json
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\bin\Debug\netstandard2.0\iot_lab1.dll
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\bin\Debug\netstandard2.0\ref\iot_lab1.dll
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\bin\Debug\netstandard2.0\iot_lab1.pdb
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.csprojAssemblyReference.cache
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.AssemblyInfoInputs.cache
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.AssemblyInfo.cs
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.dll
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\ref\iot_lab1.dll
+C:\Users\Izomet-Komputer\source\repos\iot_lab1\iot_lab1\iot_lab1\obj\Debug\netstandard2.0\iot_lab1.pdb

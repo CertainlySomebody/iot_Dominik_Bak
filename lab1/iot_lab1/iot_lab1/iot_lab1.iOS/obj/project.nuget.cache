@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCXL9e5n5crKN61QrisXrTLn7Bv9ASfZFyTHmkfN22McIcHi+HPp0mtE4Msf2G5N+gz91/gxsGS8aBwq+rStRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Izomet-Komputer\\source\\repos\\iot_lab1\\iot_lab1\\iot_lab1.iOS\\iot_lab1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
