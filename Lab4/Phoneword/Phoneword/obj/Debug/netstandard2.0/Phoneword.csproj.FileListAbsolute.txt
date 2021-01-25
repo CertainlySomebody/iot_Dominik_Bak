@@ -1,0 +1,12 @@
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\repo\iot_Dominik_Bak\Lab4\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb

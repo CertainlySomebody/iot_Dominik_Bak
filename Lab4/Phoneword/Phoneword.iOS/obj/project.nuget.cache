@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGoDthGW/nOArOX1dy/xoHHnLF952wA25EWyprTDvqbbt6dbhYlb8Z16BbGgUwU6KRvmbd0RArD291Z9wDo1GA==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\iot_Dominik_Bak\\Lab4\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Izomet-Komputer\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}
